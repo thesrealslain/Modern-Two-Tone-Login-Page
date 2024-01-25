@@ -1,4 +1,4 @@
-# modern-two-tone-login-page
+# Modern-Two-Tone-Login-Page
 
 A modern tw-tone login page using HTML and css files.
 
