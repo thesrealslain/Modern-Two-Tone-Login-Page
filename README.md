@@ -1,6 +1,6 @@
-# Modern-Two-Tone-Login-Page
+# modern-two-tone-login-page
 
-A modern tw0-tone login page using HTML and css files.
+A modern tw-tone login page using HTML and css files.
 
 ## Contents
 
